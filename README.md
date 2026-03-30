@@ -27,19 +27,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zelphyris&show_icons=true&theme=vue-dark&count_private=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zelphyris&layout=compact&theme=vue-dark" height="150" alt="languages graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mxriine.mxriine&"  />
-</div>
-
-###
-
 <p align="left">🧠 Langages de programmation</p>
 
 ###
